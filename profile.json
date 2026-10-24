@@ -2,7 +2,7 @@
   "version": 1,
   "login": "Mahito994",
   "seed": "#5055AC",
-  "seedFromAvatar": true,
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -23,7 +23,7 @@
   ],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "Mahito",
+    "name": "",
     "subtitle": "I build little projects that i personally need.",
     "typing": false,
     "avatarShape": "cookie12",
@@ -103,8 +103,13 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
+    "source": "manual",
+    "repos": [
+      "Quick-Material",
+      "Quick-CMD",
+      "Django-Shoppinglist",
+      "Mahito-Hyprland-Config"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
