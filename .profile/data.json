@@ -1,6 +1,6 @@
 {
- "key": "aaa79cf8",
- "stars": 5,
+ "key": "a2bbd4b",
+ "stars": 6,
  "contributions": 98,
  "repos": 6,
  "followers": 3,
@@ -184,7 +184,7 @@
    "url": "https://github.com/Mahito994/Quick-Material",
    "text": "A application for windows that provides shortcuts and easy access to windows features.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "JavaScript",
    "topics": []
   }
@@ -209,21 +209,21 @@
    "topics": []
   },
   {
+   "name": "Quick-Material",
+   "url": "https://github.com/Mahito994/Quick-Material",
+   "text": "A application for windows that provides shortcuts and easy access to windows features.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
    "name": "Mahito-Hyprland-Config",
    "url": "https://github.com/Mahito994/Mahito-Hyprland-Config",
    "text": "Mahito's Hyprland Config/Rice",
    "fork": false,
    "stars": 1,
    "language": "QML",
-   "topics": []
-  },
-  {
-   "name": "Quick-Material",
-   "url": "https://github.com/Mahito994/Quick-Material",
-   "text": "A application for windows that provides shortcuts and easy access to windows features.",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   },
   {
