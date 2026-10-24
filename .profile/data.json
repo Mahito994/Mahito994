@@ -1,0 +1,239 @@
+{
+ "key": "2ecf1d6",
+ "stars": 5,
+ "contributions": 91,
+ "repos": 5,
+ "followers": 3,
+ "languages": [
+  [
+   "HTML",
+   1418364
+  ],
+  [
+   "TeX",
+   825758
+  ],
+  [
+   "QML",
+   210897
+  ],
+  [
+   "Python",
+   45994
+  ],
+  [
+   "CSS",
+   23645
+  ],
+  [
+   "Lua",
+   10482
+  ],
+  [
+   "JavaScript",
+   3670
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 6
+ },
+ "pins": [
+  {
+   "name": "Django-Shoppinglist",
+   "url": "https://github.com/Mahito994/Django-Shoppinglist",
+   "text": "A simple Django Shopping list with a Material 3 Design made with HTML, CSS, JavaScript & Python",
+   "fork": false,
+   "stars": 2,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Quick-CMD",
+   "url": "https://github.com/Mahito994/Quick-CMD",
+   "text": "Quick-CMD is a small Windows toolbox for quick access to system tools.",
+   "fork": false,
+   "stars": 2,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Mahito-Hyprland-Config",
+   "url": "https://github.com/Mahito994/Mahito-Hyprland-Config",
+   "text": "Mahito's Hyprland Config/Rice",
+   "fork": false,
+   "stars": 1,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "Login-Python",
+   "url": "https://github.com/Mahito994/Login-Python",
+   "text": "A Login system made with python & sqlite3",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Django-Shoppinglist",
+   "url": "https://github.com/Mahito994/Django-Shoppinglist",
+   "text": "A simple Django Shopping list with a Material 3 Design made with HTML, CSS, JavaScript & Python",
+   "fork": false,
+   "stars": 2,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Quick-CMD",
+   "url": "https://github.com/Mahito994/Quick-CMD",
+   "text": "Quick-CMD is a small Windows toolbox for quick access to system tools.",
+   "fork": false,
+   "stars": 2,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Mahito-Hyprland-Config",
+   "url": "https://github.com/Mahito994/Mahito-Hyprland-Config",
+   "text": "Mahito's Hyprland Config/Rice",
+   "fork": false,
+   "stars": 1,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "Mahito994",
+   "url": "https://github.com/Mahito994/Mahito994",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Login-Python",
+   "url": "https://github.com/Mahito994/Login-Python",
+   "text": "A Login system made with python & sqlite3",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
